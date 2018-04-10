@@ -1,0 +1,7 @@
+{
+  "name": "callumflack-com-cfb-notice",
+  "alias": ["callumflack.com", "www.callumflack.com"],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
